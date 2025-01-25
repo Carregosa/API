@@ -10,3 +10,6 @@ npm init -y
 
 Instale o Express:
 npm install express
+
+Execute a API localmente:
+node app.js
